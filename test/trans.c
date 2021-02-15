@@ -9,3 +9,4 @@ void transpose(int r, int c, int a[][c], int trans[][r])
             trans[i][j] = a[j][i];
     }
 } 
+
